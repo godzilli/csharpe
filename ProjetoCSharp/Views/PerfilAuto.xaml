@@ -1,0 +1,37 @@
+﻿<Window x:Name="PerfilA" x:Class="ProjetoCSharp.Views.PerfilAuto"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="clr-namespace:ProjetoCSharp.Views"
+      mc:Ignorable="d"
+      Title="Seu Perfil" Height="623" Width="539.5" Loaded="PerfilA_Loaded">
+
+    <Grid Margin="0,0,-7,-5" >
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Image x:Name="imgPerfil" Height="143" Margin="52,56,347,398"/>
+        <Rectangle Fill="#EAF2F8" HorizontalAlignment="Left" Height="396" Margin="221,56,0,0" Stroke="#eee9e9" VerticalAlignment="Top" Width="4"/>
+        <Rectangle Fill="#EAF2F8" HorizontalAlignment="Left" Height="140" Margin="52,225,0,0" Stroke="#eee9e9" VerticalAlignment="Top" Width="140" RenderTransformOrigin="0.5,0.481"/>
+        <Button x:Name="Sair" Content="Sair" HorizontalAlignment="Left" Margin="423,80,0,0" VerticalAlignment="Top" Width="75" Click="Sair_Click"/>
+        <Button x:Name="Voltar" Content="Voltar" HorizontalAlignment="Left" Margin="343,80,0,0" VerticalAlignment="Top" Width="75" Click="Voltar_Click"/>
+        <DataGrid x:Name="Historico" HorizontalAlignment="Left" Height="308" Margin="255,114,0,0" VerticalAlignment="Top" Width="243">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Nome Cliente" Width="100" Binding="{Binding Nome}"/>
+                <DataGridTextColumn Header="Data" Width="70" Binding="{Binding Dia}"/>
+                <DataGridTextColumn Header="Início" Width="80" Binding="{Binding InicioExpediente}"/>
+
+            </DataGrid.Columns>
+
+        </DataGrid>
+
+        <Rectangle Fill="#FF47525E" HorizontalAlignment="Left" Height="99" Margin="0,493,0,0" Stroke="Black" VerticalAlignment="Top" Width="533"/>
+        <Label x:Name="NomeA" Content="" HorizontalAlignment="Left" Margin="98,194,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Label x:Name="InfoA" Content="" HorizontalAlignment="Left" Margin="81,258,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <TextBlock x:Name="txtLogo" HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="DIJJ Variedades" VerticalAlignment="Top"/>
+        <Button x:Name="btnAlterarDados" Content="Alterar Dados" HorizontalAlignment="Left" Margin="72,437,0,0" VerticalAlignment="Top" Width="99" Click="btnAlterarDados_Click"/>
+    </Grid>
+
+</Window>
+

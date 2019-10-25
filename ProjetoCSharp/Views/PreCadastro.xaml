@@ -1,0 +1,25 @@
+﻿<Window x:Class="ProjetoCSharp.Views.PreCadastro"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProjetoCSharp.Views"
+        mc:Ignorable="d"
+        Title="PreCadastro" Height="285" Width="272" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Button x:Name="btnCliente" Content="" HorizontalAlignment="Left" Margin="36,103,0,0" VerticalAlignment="Top" Width="74" Height="143" BorderThickness="0" Click="BtnCliente_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="Imagens/cliente.png" Stretch="Uniform"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="btnAutonomo" Content="" HorizontalAlignment="Left" Margin="143,103,0,0" VerticalAlignment="Top" Width="74" Height="143" BorderThickness="0" Click="BtnAutonomo_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="Imagens/autonomo.png" Stretch="Uniform"/>
+            </Button.Background>
+        </Button>
+        <Label x:Name="lblInfo" Content="Deseja se cadastrar com que tipo de conta?" HorizontalAlignment="Left" Margin="7,20,0,0" VerticalAlignment="Top" Foreground="#FF065486" FontWeight="Bold"/>
+        <Label x:Name="label" Content="  Quero me &#xA;   cadastrar &#xA;como Cliente" HorizontalAlignment="Left" Margin="33,42,0,0" VerticalAlignment="Top" FontWeight="Bold" />
+        <Label x:Name="label1" Content="     Quero me&#xD;&#xA;      cadastrar&#xD;&#xA;como Autônomo" HorizontalAlignment="Center" Margin="130,42,30,0" VerticalAlignment="Top" Width="106" FontWeight="Bold"/>
+        <TextBlock x:Name="txtLogo" HorizontalAlignment="Left" Margin="10,4,0,0" TextWrapping="Wrap" Text="DIJJ Variedades" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

@@ -1,0 +1,559 @@
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoC#\ProjetoC#\ProjetoCSharp\ProjetoCSharp\bin\Debug\ProjetoCSharp.exe.config
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoC#\ProjetoC#\ProjetoCSharp\ProjetoCSharp\bin\Debug\ProjetoCSharp.exe
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoC#\ProjetoC#\ProjetoCSharp\ProjetoCSharp\bin\Debug\ProjetoCSharp.pdb
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoC#\ProjetoC#\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.csprojResolveAssemblyReference.cache
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoC#\ProjetoC#\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Cadastro.g.cs
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoC#\ProjetoC#\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\frmPrincipal.g.cs
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoC#\ProjetoC#\ProjetoCSharp\ProjetoCSharp\obj\Debug\App.g.cs
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoC#\ProjetoC#\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp_MarkupCompile.cache
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoC#\ProjetoC#\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp_MarkupCompile.lref
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoC#\ProjetoC#\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Cadastro.baml
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoC#\ProjetoC#\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\frmPrincipal.baml
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoC#\ProjetoC#\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.g.resources
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoC#\ProjetoC#\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.Properties.Resources.resources
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoC#\ProjetoC#\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.csproj.GenerateResource.Cache
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoC#\ProjetoC#\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.exe
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoC#\ProjetoC#\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.pdb
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.csprojAssemblyReference.cache
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Cadastro.g.cs
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\CadastroA.g.cs
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Chat.g.cs
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\frmAvaliacao.g.cs
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\frmPrincipal.g.cs
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Login.g.cs
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PreCadastro.g.cs
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\obj\Debug\App.g.cs
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp_MarkupCompile.cache
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp_MarkupCompile.lref
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.exe
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.pdb
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PerfilC.g.cs
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Busca.g.cs
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Cadastro.g.cs
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\CadastroA.g.cs
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Chat.g.cs
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\frmAvaliacao.g.cs
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\frmPrincipal.g.cs
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Login.g.cs
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PerfilAuto.g.cs
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PerfilC.g.cs
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PreCadastro.g.cs
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\App.g.cs
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp_MarkupCompile.cache
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp_MarkupCompile.lref
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\bin\Debug\ProjetoCSharp.exe.config
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\bin\Debug\ProjetoCSharp.exe
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\bin\Debug\ProjetoCSharp.pdb
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Busca.baml
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Cadastro.baml
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\CadastroA.baml
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Chat.baml
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\frmAvaliacao.baml
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\frmPrincipal.baml
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Login.baml
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PerfilAuto.baml
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PerfilC.baml
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PreCadastro.baml
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.g.resources
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.Properties.Resources.resources
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.exe
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.pdb
+C:\Users\nosre\Documents\Estudos\C#\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.csprojAssemblyReference.cache
+C:\Users\nosre\Documents\Estudos\C#\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Busca.g.cs
+C:\Users\nosre\Documents\Estudos\C#\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Cadastro.g.cs
+C:\Users\nosre\Documents\Estudos\C#\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\CadastroA.g.cs
+C:\Users\nosre\Documents\Estudos\C#\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Chat.g.cs
+C:\Users\nosre\Documents\Estudos\C#\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\frmAvaliacao.g.cs
+C:\Users\nosre\Documents\Estudos\C#\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\frmPrincipal.g.cs
+C:\Users\nosre\Documents\Estudos\C#\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Login.g.cs
+C:\Users\nosre\Documents\Estudos\C#\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PerfilAuto.g.cs
+C:\Users\nosre\Documents\Estudos\C#\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PerfilC.g.cs
+C:\Users\nosre\Documents\Estudos\C#\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PreCadastro.g.cs
+C:\Users\nosre\Documents\Estudos\C#\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\SelecaoFoto.g.cs
+C:\Users\nosre\Documents\Estudos\C#\ProjetoCSharp\ProjetoCSharp\obj\Debug\App.g.cs
+C:\Users\nosre\Documents\Estudos\C#\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp_MarkupCompile.cache
+C:\Users\nosre\Documents\Estudos\C#\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp_MarkupCompile.lref
+C:\Users\nosre\Documents\Estudos\C#\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.exe
+C:\Users\nosre\Documents\Estudos\C#\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.pdb
+C:\Users\nosre\Documents\Estudos\C#\ProjetoCSharp\ProjetoCSharp\bin\Debug\ProjetoCSharp.exe.config
+C:\Users\nosre\Documents\Estudos\C#\ProjetoCSharp\ProjetoCSharp\bin\Debug\ProjetoCSharp.exe
+C:\Users\nosre\Documents\Estudos\C#\ProjetoCSharp\ProjetoCSharp\bin\Debug\ProjetoCSharp.pdb
+C:\Users\nosre\Documents\Estudos\C#\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Busca.baml
+C:\Users\nosre\Documents\Estudos\C#\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Cadastro.baml
+C:\Users\nosre\Documents\Estudos\C#\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\CadastroA.baml
+C:\Users\nosre\Documents\Estudos\C#\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Chat.baml
+C:\Users\nosre\Documents\Estudos\C#\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\frmAvaliacao.baml
+C:\Users\nosre\Documents\Estudos\C#\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\frmPrincipal.baml
+C:\Users\nosre\Documents\Estudos\C#\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Login.baml
+C:\Users\nosre\Documents\Estudos\C#\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PerfilAuto.baml
+C:\Users\nosre\Documents\Estudos\C#\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PerfilC.baml
+C:\Users\nosre\Documents\Estudos\C#\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PreCadastro.baml
+C:\Users\nosre\Documents\Estudos\C#\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\SelecaoFoto.baml
+C:\Users\nosre\Documents\Estudos\C#\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.g.resources
+C:\Users\nosre\Documents\Estudos\C#\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.Properties.Resources.resources
+C:\Users\nosre\Documents\Estudos\C#\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.csproj.GenerateResource.cache
+C:\Users\nosre\Documents\Estudos\C#\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\nosre\Documents\Estudos\C#\ProjetoCSharp\ProjetoCSharp\bin\Debug\EntityFramework.dll
+C:\Users\nosre\Documents\Estudos\C#\ProjetoCSharp\ProjetoCSharp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nosre\Documents\Estudos\C#\ProjetoCSharp\ProjetoCSharp\bin\Debug\EntityFramework.xml
+C:\Users\nosre\Documents\Estudos\C#\ProjetoCSharp\ProjetoCSharp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nosre\Documents\Estudos\C#\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.csproj.CopyComplete
+C:\Users\nosre\Documents\Estudos\C#\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.Migrations.CriarBanco.resources
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\ProjetoCSharp.exe.config
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\ProjetoCSharp.exe
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\ProjetoCSharp.pdb
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\EntityFramework.dll
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\EntityFramework.xml
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.csprojResolveAssemblyReference.cache
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Busca.g.cs
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Cadastro.g.cs
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\CadastroA.g.cs
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Chat.g.cs
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\frmAvaliacao.g.cs
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\frmPrincipal.g.cs
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Login.g.cs
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PerfilAuto.g.cs
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PerfilC.g.cs
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PreCadastro.g.cs
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\SelecaoFoto.g.cs
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\App.g.cs
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp_MarkupCompile.cache
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp_MarkupCompile.lref
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Busca.baml
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Cadastro.baml
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\CadastroA.baml
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Chat.baml
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\frmAvaliacao.baml
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\frmPrincipal.baml
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Login.baml
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PerfilAuto.baml
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PerfilC.baml
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PreCadastro.baml
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\SelecaoFoto.baml
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.g.resources
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.Properties.Resources.resources
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.csproj.GenerateResource.Cache
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.exe
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.pdb
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.Migrations.CriarBanco.resources
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Busca.g.cs
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Cadastro.g.cs
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\CadastroA.g.cs
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Chat.g.cs
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\frmAvaliacao.g.cs
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\frmPrincipal.g.cs
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Login.g.cs
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PerfilAuto.g.cs
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PerfilC.g.cs
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PreCadastro.g.cs
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\App.g.cs
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp_MarkupCompile.cache
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp_MarkupCompile.lref
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.pdb
+C:\Users\jenif\OneDrive\Área de Trabalho\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.csprojResolveAssemblyReference.cache
+C:\Users\jenif\OneDrive\Área de Trabalho\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Busca.g.cs
+C:\Users\jenif\OneDrive\Área de Trabalho\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Cadastro.g.cs
+C:\Users\jenif\OneDrive\Área de Trabalho\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\CadastroA.g.cs
+C:\Users\jenif\OneDrive\Área de Trabalho\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Chat.g.cs
+C:\Users\jenif\OneDrive\Área de Trabalho\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\frmAvaliacao.g.cs
+C:\Users\jenif\OneDrive\Área de Trabalho\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\frmPrincipal.g.cs
+C:\Users\jenif\OneDrive\Área de Trabalho\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Login.g.cs
+C:\Users\jenif\OneDrive\Área de Trabalho\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PerfilAuto.g.cs
+C:\Users\jenif\OneDrive\Área de Trabalho\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PerfilC.g.cs
+C:\Users\jenif\OneDrive\Área de Trabalho\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PreCadastro.g.cs
+C:\Users\jenif\OneDrive\Área de Trabalho\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\SelecaoFoto.g.cs
+C:\Users\jenif\OneDrive\Área de Trabalho\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\App.g.cs
+C:\Users\jenif\OneDrive\Área de Trabalho\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp_MarkupCompile.cache
+C:\Users\jenif\OneDrive\Área de Trabalho\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp_MarkupCompile.lref
+C:\Users\jenif\OneDrive\Área de Trabalho\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.pdb
+C:\Users\jenif\OneDrive\Área de Trabalho\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Agendamento.g.cs
+C:\Users\jenif\OneDrive\Área de Trabalho\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\ProjetoCSharp.exe.config
+C:\Users\jenif\OneDrive\Área de Trabalho\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\ProjetoCSharp.exe
+C:\Users\jenif\OneDrive\Área de Trabalho\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\ProjetoCSharp.pdb
+C:\Users\jenif\OneDrive\Área de Trabalho\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\EntityFramework.dll
+C:\Users\jenif\OneDrive\Área de Trabalho\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jenif\OneDrive\Área de Trabalho\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\EntityFramework.xml
+C:\Users\jenif\OneDrive\Área de Trabalho\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jenif\OneDrive\Área de Trabalho\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Busca.baml
+C:\Users\jenif\OneDrive\Área de Trabalho\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Cadastro.baml
+C:\Users\jenif\OneDrive\Área de Trabalho\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\CadastroA.baml
+C:\Users\jenif\OneDrive\Área de Trabalho\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Chat.baml
+C:\Users\jenif\OneDrive\Área de Trabalho\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\frmAvaliacao.baml
+C:\Users\jenif\OneDrive\Área de Trabalho\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\frmPrincipal.baml
+C:\Users\jenif\OneDrive\Área de Trabalho\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Login.baml
+C:\Users\jenif\OneDrive\Área de Trabalho\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PerfilAuto.baml
+C:\Users\jenif\OneDrive\Área de Trabalho\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PerfilC.baml
+C:\Users\jenif\OneDrive\Área de Trabalho\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PreCadastro.baml
+C:\Users\jenif\OneDrive\Área de Trabalho\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\SelecaoFoto.baml
+C:\Users\jenif\OneDrive\Área de Trabalho\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Agendamento.baml
+C:\Users\jenif\OneDrive\Área de Trabalho\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.g.resources
+C:\Users\jenif\OneDrive\Área de Trabalho\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.Migrations.CriarBanco.resources
+C:\Users\jenif\OneDrive\Área de Trabalho\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.Properties.Resources.resources
+C:\Users\jenif\OneDrive\Área de Trabalho\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.csproj.GenerateResource.Cache
+C:\Users\jenif\OneDrive\Área de Trabalho\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.exe
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Agendamento.g.cs
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Busca.g.cs
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Cadastro.g.cs
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\CadastroA.g.cs
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Chat.g.cs
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\frmAvaliacao.g.cs
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\frmPrincipal.g.cs
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Login.g.cs
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PerfilAuto.g.cs
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PerfilC.g.cs
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PreCadastro.g.cs
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\App.g.cs
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp_MarkupCompile.cache
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp_MarkupCompile.lref
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.exe
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.pdb
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\ProjetoCSharp.exe.config
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\ProjetoCSharp.exe
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\ProjetoCSharp.pdb
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\EntityFramework.dll
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\EntityFramework.xml
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Agendamento.baml
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Busca.baml
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Cadastro.baml
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\CadastroA.baml
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Chat.baml
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\frmAvaliacao.baml
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\frmPrincipal.baml
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Login.baml
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PerfilAuto.baml
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PerfilC.baml
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PreCadastro.baml
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.g.resources
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.Properties.Resources.resources
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.csproj.CopyComplete
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.Migrations.CriarBanco.resources
+C:\Users\nosre\Downloads\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\ProjetoCSharp.exe.config
+C:\Users\nosre\Downloads\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\ProjetoCSharp.exe
+C:\Users\nosre\Downloads\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\ProjetoCSharp.pdb
+C:\Users\nosre\Downloads\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\EntityFramework.dll
+C:\Users\nosre\Downloads\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nosre\Downloads\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\EntityFramework.xml
+C:\Users\nosre\Downloads\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nosre\Downloads\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.csprojAssemblyReference.cache
+C:\Users\nosre\Downloads\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Agendamento.g.cs
+C:\Users\nosre\Downloads\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Busca.g.cs
+C:\Users\nosre\Downloads\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Cadastro.g.cs
+C:\Users\nosre\Downloads\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\CadastroA.g.cs
+C:\Users\nosre\Downloads\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Chat.g.cs
+C:\Users\nosre\Downloads\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\frmAvaliacao.g.cs
+C:\Users\nosre\Downloads\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\frmPrincipal.g.cs
+C:\Users\nosre\Downloads\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Login.g.cs
+C:\Users\nosre\Downloads\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PerfilAuto.g.cs
+C:\Users\nosre\Downloads\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PerfilC.g.cs
+C:\Users\nosre\Downloads\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PreCadastro.g.cs
+C:\Users\nosre\Downloads\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\App.g.cs
+C:\Users\nosre\Downloads\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp_MarkupCompile.cache
+C:\Users\nosre\Downloads\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp_MarkupCompile.lref
+C:\Users\nosre\Downloads\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Agendamento.baml
+C:\Users\nosre\Downloads\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Busca.baml
+C:\Users\nosre\Downloads\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Cadastro.baml
+C:\Users\nosre\Downloads\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\CadastroA.baml
+C:\Users\nosre\Downloads\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Chat.baml
+C:\Users\nosre\Downloads\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\frmAvaliacao.baml
+C:\Users\nosre\Downloads\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\frmPrincipal.baml
+C:\Users\nosre\Downloads\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Login.baml
+C:\Users\nosre\Downloads\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PerfilAuto.baml
+C:\Users\nosre\Downloads\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PerfilC.baml
+C:\Users\nosre\Downloads\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PreCadastro.baml
+C:\Users\nosre\Downloads\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.g.resources
+C:\Users\nosre\Downloads\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.Properties.Resources.resources
+C:\Users\nosre\Downloads\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.csproj.GenerateResource.cache
+C:\Users\nosre\Downloads\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\nosre\Downloads\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.csproj.CopyComplete
+C:\Users\nosre\Downloads\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.exe
+C:\Users\nosre\Downloads\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.pdb
+C:\Users\nosre\Downloads\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.Migrations.CriarBanco.resources
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\ProjetoCSharp.exe.config
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\ProjetoCSharp.exe
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\ProjetoCSharp.pdb
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\EntityFramework.dll
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\EntityFramework.SqlServer.dll
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\EntityFramework.xml
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\EntityFramework.SqlServer.xml
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.csprojAssemblyReference.cache
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Agendamento.g.cs
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Busca.g.cs
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Cadastro.g.cs
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\CadastroA.g.cs
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Chat.g.cs
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\frmAvaliacao.g.cs
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\frmPrincipal.g.cs
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Login.g.cs
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PerfilAuto.g.cs
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PerfilC.g.cs
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PreCadastro.g.cs
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\App.g.cs
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp_MarkupCompile.cache
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp_MarkupCompile.lref
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Agendamento.baml
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Busca.baml
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Cadastro.baml
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\CadastroA.baml
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Chat.baml
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\frmAvaliacao.baml
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\frmPrincipal.baml
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Login.baml
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PerfilAuto.baml
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PerfilC.baml
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PreCadastro.baml
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.g.resources
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.Properties.Resources.resources
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.csproj.GenerateResource.cache
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.csproj.CoreCompileInputs.cache
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.csproj.CopyComplete
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.exe
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.pdb
+C:\Users\Aluno\Desktop\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Agendamento.g.cs
+C:\Users\Aluno\Desktop\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Busca.g.cs
+C:\Users\Aluno\Desktop\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Cadastro.g.cs
+C:\Users\Aluno\Desktop\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\CadastroA.g.cs
+C:\Users\Aluno\Desktop\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Chat.g.cs
+C:\Users\Aluno\Desktop\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\frmAvaliacao.g.cs
+C:\Users\Aluno\Desktop\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\frmPrincipal.g.cs
+C:\Users\Aluno\Desktop\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Login.g.cs
+C:\Users\Aluno\Desktop\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PerfilAuto.g.cs
+C:\Users\Aluno\Desktop\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PerfilC.g.cs
+C:\Users\Aluno\Desktop\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PreCadastro.g.cs
+C:\Users\Aluno\Desktop\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\App.g.cs
+C:\Users\Aluno\Desktop\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp_MarkupCompile.cache
+C:\Users\Aluno\Desktop\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp_MarkupCompile.lref
+C:\Users\Aluno\Desktop\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.exe
+C:\Users\Aluno\Desktop\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.pdb
+C:\Users\Aluno\Desktop\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\ProjetoCSharp.exe.config
+C:\Users\Aluno\Desktop\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\ProjetoCSharp.exe
+C:\Users\Aluno\Desktop\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\ProjetoCSharp.pdb
+C:\Users\Aluno\Desktop\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\EntityFramework.dll
+C:\Users\Aluno\Desktop\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aluno\Desktop\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\EntityFramework.xml
+C:\Users\Aluno\Desktop\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aluno\Desktop\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Agendamento.baml
+C:\Users\Aluno\Desktop\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Busca.baml
+C:\Users\Aluno\Desktop\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Cadastro.baml
+C:\Users\Aluno\Desktop\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\CadastroA.baml
+C:\Users\Aluno\Desktop\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Chat.baml
+C:\Users\Aluno\Desktop\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\frmAvaliacao.baml
+C:\Users\Aluno\Desktop\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\frmPrincipal.baml
+C:\Users\Aluno\Desktop\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Login.baml
+C:\Users\Aluno\Desktop\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PerfilAuto.baml
+C:\Users\Aluno\Desktop\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PerfilC.baml
+C:\Users\Aluno\Desktop\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PreCadastro.baml
+C:\Users\Aluno\Desktop\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.g.resources
+C:\Users\Aluno\Desktop\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.Properties.Resources.resources
+C:\Users\Aluno\Desktop\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.csproj.CopyComplete
+C:\Users\Aluno\Desktop\ProjetoCSharp3\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.Migrations.CriarBanco.resources
+C:\Users\nosre\Desktop\ProjetoCSharp5\ProjetoCSharp5\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\ProjetoCSharp.exe.config
+C:\Users\nosre\Desktop\ProjetoCSharp5\ProjetoCSharp5\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\ProjetoCSharp.exe
+C:\Users\nosre\Desktop\ProjetoCSharp5\ProjetoCSharp5\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\ProjetoCSharp.pdb
+C:\Users\nosre\Desktop\ProjetoCSharp5\ProjetoCSharp5\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\EntityFramework.dll
+C:\Users\nosre\Desktop\ProjetoCSharp5\ProjetoCSharp5\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nosre\Desktop\ProjetoCSharp5\ProjetoCSharp5\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\EntityFramework.xml
+C:\Users\nosre\Desktop\ProjetoCSharp5\ProjetoCSharp5\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nosre\Desktop\ProjetoCSharp5\ProjetoCSharp5\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.csprojAssemblyReference.cache
+C:\Users\nosre\Desktop\ProjetoCSharp5\ProjetoCSharp5\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Agendamento.g.cs
+C:\Users\nosre\Desktop\ProjetoCSharp5\ProjetoCSharp5\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Busca.g.cs
+C:\Users\nosre\Desktop\ProjetoCSharp5\ProjetoCSharp5\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Cadastro.g.cs
+C:\Users\nosre\Desktop\ProjetoCSharp5\ProjetoCSharp5\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\CadastroA.g.cs
+C:\Users\nosre\Desktop\ProjetoCSharp5\ProjetoCSharp5\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Chat.g.cs
+C:\Users\nosre\Desktop\ProjetoCSharp5\ProjetoCSharp5\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\frmAvaliacao.g.cs
+C:\Users\nosre\Desktop\ProjetoCSharp5\ProjetoCSharp5\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\frmPrincipal.g.cs
+C:\Users\nosre\Desktop\ProjetoCSharp5\ProjetoCSharp5\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Login.g.cs
+C:\Users\nosre\Desktop\ProjetoCSharp5\ProjetoCSharp5\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PerfilAuto.g.cs
+C:\Users\nosre\Desktop\ProjetoCSharp5\ProjetoCSharp5\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PerfilC.g.cs
+C:\Users\nosre\Desktop\ProjetoCSharp5\ProjetoCSharp5\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PreCadastro.g.cs
+C:\Users\nosre\Desktop\ProjetoCSharp5\ProjetoCSharp5\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\App.g.cs
+C:\Users\nosre\Desktop\ProjetoCSharp5\ProjetoCSharp5\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp_MarkupCompile.cache
+C:\Users\nosre\Desktop\ProjetoCSharp5\ProjetoCSharp5\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp_MarkupCompile.lref
+C:\Users\nosre\Desktop\ProjetoCSharp5\ProjetoCSharp5\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Agendamento.baml
+C:\Users\nosre\Desktop\ProjetoCSharp5\ProjetoCSharp5\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Busca.baml
+C:\Users\nosre\Desktop\ProjetoCSharp5\ProjetoCSharp5\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Cadastro.baml
+C:\Users\nosre\Desktop\ProjetoCSharp5\ProjetoCSharp5\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\CadastroA.baml
+C:\Users\nosre\Desktop\ProjetoCSharp5\ProjetoCSharp5\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Chat.baml
+C:\Users\nosre\Desktop\ProjetoCSharp5\ProjetoCSharp5\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\frmAvaliacao.baml
+C:\Users\nosre\Desktop\ProjetoCSharp5\ProjetoCSharp5\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\frmPrincipal.baml
+C:\Users\nosre\Desktop\ProjetoCSharp5\ProjetoCSharp5\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Login.baml
+C:\Users\nosre\Desktop\ProjetoCSharp5\ProjetoCSharp5\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PerfilAuto.baml
+C:\Users\nosre\Desktop\ProjetoCSharp5\ProjetoCSharp5\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PerfilC.baml
+C:\Users\nosre\Desktop\ProjetoCSharp5\ProjetoCSharp5\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PreCadastro.baml
+C:\Users\nosre\Desktop\ProjetoCSharp5\ProjetoCSharp5\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.g.resources
+C:\Users\nosre\Desktop\ProjetoCSharp5\ProjetoCSharp5\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.Properties.Resources.resources
+C:\Users\nosre\Desktop\ProjetoCSharp5\ProjetoCSharp5\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.csproj.GenerateResource.cache
+C:\Users\nosre\Desktop\ProjetoCSharp5\ProjetoCSharp5\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\nosre\Desktop\ProjetoCSharp5\ProjetoCSharp5\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.csproj.CopyComplete
+C:\Users\nosre\Desktop\ProjetoCSharp5\ProjetoCSharp5\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.exe
+C:\Users\nosre\Desktop\ProjetoCSharp5\ProjetoCSharp5\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.pdb
+C:\Users\nosre\Desktop\ProjetoCSharp5\ProjetoCSharp5\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.Migrations.CriarBanco.resources
+C:\Users\nosre\Desktop\ProjetoCSharp\ProjetoCSharp\bin\Debug\ProjetoCSharp.exe.config
+C:\Users\nosre\Desktop\ProjetoCSharp\ProjetoCSharp\bin\Debug\ProjetoCSharp.exe
+C:\Users\nosre\Desktop\ProjetoCSharp\ProjetoCSharp\bin\Debug\ProjetoCSharp.pdb
+C:\Users\nosre\Desktop\ProjetoCSharp\ProjetoCSharp\bin\Debug\EntityFramework.dll
+C:\Users\nosre\Desktop\ProjetoCSharp\ProjetoCSharp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nosre\Desktop\ProjetoCSharp\ProjetoCSharp\bin\Debug\EntityFramework.xml
+C:\Users\nosre\Desktop\ProjetoCSharp\ProjetoCSharp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nosre\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.csprojAssemblyReference.cache
+C:\Users\nosre\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Agendamento.g.cs
+C:\Users\nosre\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Busca.g.cs
+C:\Users\nosre\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Cadastro.g.cs
+C:\Users\nosre\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\CadastroA.g.cs
+C:\Users\nosre\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Chat.g.cs
+C:\Users\nosre\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\frmAvaliacao.g.cs
+C:\Users\nosre\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\frmPrincipal.g.cs
+C:\Users\nosre\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Login.g.cs
+C:\Users\nosre\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PerfilAuto.g.cs
+C:\Users\nosre\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PerfilC.g.cs
+C:\Users\nosre\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PreCadastro.g.cs
+C:\Users\nosre\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\App.g.cs
+C:\Users\nosre\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp_MarkupCompile.cache
+C:\Users\nosre\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp_MarkupCompile.lref
+C:\Users\nosre\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Agendamento.baml
+C:\Users\nosre\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Busca.baml
+C:\Users\nosre\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Cadastro.baml
+C:\Users\nosre\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\CadastroA.baml
+C:\Users\nosre\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Chat.baml
+C:\Users\nosre\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\frmAvaliacao.baml
+C:\Users\nosre\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\frmPrincipal.baml
+C:\Users\nosre\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Login.baml
+C:\Users\nosre\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PerfilAuto.baml
+C:\Users\nosre\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PerfilC.baml
+C:\Users\nosre\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PreCadastro.baml
+C:\Users\nosre\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.g.resources
+C:\Users\nosre\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.Migrations.CriarBanco.resources
+C:\Users\nosre\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.Properties.Resources.resources
+C:\Users\nosre\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.csproj.GenerateResource.cache
+C:\Users\nosre\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\nosre\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.csproj.CopyComplete
+C:\Users\nosre\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.exe
+C:\Users\nosre\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.pdb
+C:\Users\nosre\Desktop\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.Migrations.AttSolicitacao.resources
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Agendamento.g.cs
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\HistoricoMensagem.g.cs
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.exe
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\ProjetoCSharp.exe.config
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\ProjetoCSharp.exe
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\ProjetoCSharp.pdb
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\EntityFramework.dll
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\EntityFramework.xml
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Agendamento.baml
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Busca.baml
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Cadastro.baml
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\CadastroA.baml
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Chat.baml
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\frmAvaliacao.baml
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\frmPrincipal.baml
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\HistoricoMensagem.baml
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Login.baml
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PerfilAuto.baml
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PerfilC.baml
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PreCadastro.baml
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.g.resources
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.Properties.Resources.resources
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.csproj.CopyComplete
+C:\Users\Aluno\Desktop\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.Migrations.CriarBanco.resources
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\ProjetoCSharp.exe.config
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\ProjetoCSharp.exe
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\ProjetoCSharp.pdb
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\EntityFramework.dll
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\EntityFramework.SqlServer.dll
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\EntityFramework.xml
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\EntityFramework.SqlServer.xml
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.csprojAssemblyReference.cache
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Agendamento.g.cs
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Busca.g.cs
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Cadastro.g.cs
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\CadastroA.g.cs
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Chat.g.cs
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\frmAvaliacao.g.cs
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\frmPrincipal.g.cs
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\HistoricoMensagem.g.cs
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Login.g.cs
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PerfilAuto.g.cs
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PerfilC.g.cs
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PreCadastro.g.cs
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\App.g.cs
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp_MarkupCompile.cache
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp_MarkupCompile.lref
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Agendamento.baml
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Busca.baml
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Cadastro.baml
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\CadastroA.baml
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Chat.baml
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\frmAvaliacao.baml
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\frmPrincipal.baml
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\HistoricoMensagem.baml
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\Login.baml
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PerfilAuto.baml
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PerfilC.baml
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\Views\PreCadastro.baml
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.g.resources
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.Migrations.CriarBanco.resources
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.Properties.Resources.resources
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.csproj.GenerateResource.cache
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.csproj.CoreCompileInputs.cache
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.csproj.CopyComplete
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.exe
+D:\Faculdade\5°Semestre\Microsoft\ProjetoCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.pdb
+C:\Users\Aluno\Downloads\projetocsharpe-master\projetocsharpe-master\ProjetoCSharp\obj\Debug\ProjetoCSharp.csprojAssemblyReference.cache
+C:\Users\Aluno\Downloads\projetocsharpe-master\projetocsharpe-master\ProjetoCSharp\obj\Debug\Views\Agendamento.g.cs
+C:\Users\Aluno\Downloads\projetocsharpe-master\projetocsharpe-master\ProjetoCSharp\obj\Debug\Views\Busca.g.cs
+C:\Users\Aluno\Downloads\projetocsharpe-master\projetocsharpe-master\ProjetoCSharp\obj\Debug\Views\Cadastro.g.cs
+C:\Users\Aluno\Downloads\projetocsharpe-master\projetocsharpe-master\ProjetoCSharp\obj\Debug\Views\CadastroA.g.cs
+C:\Users\Aluno\Downloads\projetocsharpe-master\projetocsharpe-master\ProjetoCSharp\obj\Debug\Views\Chat.g.cs
+C:\Users\Aluno\Downloads\projetocsharpe-master\projetocsharpe-master\ProjetoCSharp\obj\Debug\Views\frmAvaliacao.g.cs
+C:\Users\Aluno\Downloads\projetocsharpe-master\projetocsharpe-master\ProjetoCSharp\obj\Debug\Views\frmPrincipal.g.cs
+C:\Users\Aluno\Downloads\projetocsharpe-master\projetocsharpe-master\ProjetoCSharp\obj\Debug\Views\HistoricoMensagem.g.cs
+C:\Users\Aluno\Downloads\projetocsharpe-master\projetocsharpe-master\ProjetoCSharp\obj\Debug\Views\Login.g.cs
+C:\Users\Aluno\Downloads\projetocsharpe-master\projetocsharpe-master\ProjetoCSharp\obj\Debug\Views\PerfilAuto.g.cs
+C:\Users\Aluno\Downloads\projetocsharpe-master\projetocsharpe-master\ProjetoCSharp\obj\Debug\Views\PerfilC.g.cs
+C:\Users\Aluno\Downloads\projetocsharpe-master\projetocsharpe-master\ProjetoCSharp\obj\Debug\Views\PreCadastro.g.cs
+C:\Users\Aluno\Downloads\projetocsharpe-master\projetocsharpe-master\ProjetoCSharp\obj\Debug\App.g.cs
+C:\Users\Aluno\Downloads\projetocsharpe-master\projetocsharpe-master\ProjetoCSharp\obj\Debug\ProjetoCSharp_MarkupCompile.cache
+C:\Users\Aluno\Downloads\projetocsharpe-master\projetocsharpe-master\ProjetoCSharp\obj\Debug\ProjetoCSharp_MarkupCompile.lref
+C:\Users\Aluno\Downloads\projetocsharpe-master\projetocsharpe-master\ProjetoCSharp\obj\Debug\ProjetoCSharp.exe
+C:\Users\Aluno\Downloads\projetocsharpe-master\projetocsharpe-master\ProjetoCSharp\obj\Debug\ProjetoCSharp.pdb
+C:\Users\Aluno\Downloads\projetocsharpe-master\projetocsharpe-master\ProjetoCSharp\bin\Debug\ProjetoCSharp.exe.config
+C:\Users\Aluno\Downloads\projetocsharpe-master\projetocsharpe-master\ProjetoCSharp\bin\Debug\ProjetoCSharp.exe
+C:\Users\Aluno\Downloads\projetocsharpe-master\projetocsharpe-master\ProjetoCSharp\bin\Debug\ProjetoCSharp.pdb
+C:\Users\Aluno\Downloads\projetocsharpe-master\projetocsharpe-master\ProjetoCSharp\bin\Debug\EntityFramework.dll
+C:\Users\Aluno\Downloads\projetocsharpe-master\projetocsharpe-master\ProjetoCSharp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aluno\Downloads\projetocsharpe-master\projetocsharpe-master\ProjetoCSharp\bin\Debug\EntityFramework.xml
+C:\Users\Aluno\Downloads\projetocsharpe-master\projetocsharpe-master\ProjetoCSharp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aluno\Downloads\projetocsharpe-master\projetocsharpe-master\ProjetoCSharp\obj\Debug\Views\Agendamento.baml
+C:\Users\Aluno\Downloads\projetocsharpe-master\projetocsharpe-master\ProjetoCSharp\obj\Debug\Views\Busca.baml
+C:\Users\Aluno\Downloads\projetocsharpe-master\projetocsharpe-master\ProjetoCSharp\obj\Debug\Views\Cadastro.baml
+C:\Users\Aluno\Downloads\projetocsharpe-master\projetocsharpe-master\ProjetoCSharp\obj\Debug\Views\CadastroA.baml
+C:\Users\Aluno\Downloads\projetocsharpe-master\projetocsharpe-master\ProjetoCSharp\obj\Debug\Views\Chat.baml
+C:\Users\Aluno\Downloads\projetocsharpe-master\projetocsharpe-master\ProjetoCSharp\obj\Debug\Views\frmAvaliacao.baml
+C:\Users\Aluno\Downloads\projetocsharpe-master\projetocsharpe-master\ProjetoCSharp\obj\Debug\Views\frmPrincipal.baml
+C:\Users\Aluno\Downloads\projetocsharpe-master\projetocsharpe-master\ProjetoCSharp\obj\Debug\Views\HistoricoMensagem.baml
+C:\Users\Aluno\Downloads\projetocsharpe-master\projetocsharpe-master\ProjetoCSharp\obj\Debug\Views\Login.baml
+C:\Users\Aluno\Downloads\projetocsharpe-master\projetocsharpe-master\ProjetoCSharp\obj\Debug\Views\PerfilAuto.baml
+C:\Users\Aluno\Downloads\projetocsharpe-master\projetocsharpe-master\ProjetoCSharp\obj\Debug\Views\PerfilC.baml
+C:\Users\Aluno\Downloads\projetocsharpe-master\projetocsharpe-master\ProjetoCSharp\obj\Debug\Views\PreCadastro.baml
+C:\Users\Aluno\Downloads\projetocsharpe-master\projetocsharpe-master\ProjetoCSharp\obj\Debug\ProjetoCSharp.g.resources
+C:\Users\Aluno\Downloads\projetocsharpe-master\projetocsharpe-master\ProjetoCSharp\obj\Debug\ProjetoCSharp.Properties.Resources.resources
+C:\Users\Aluno\Downloads\projetocsharpe-master\projetocsharpe-master\ProjetoCSharp\obj\Debug\ProjetoCSharp.csproj.GenerateResource.cache
+C:\Users\Aluno\Downloads\projetocsharpe-master\projetocsharpe-master\ProjetoCSharp\obj\Debug\ProjetoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\projetocsharpe-master\projetocsharpe-master\ProjetoCSharp\obj\Debug\ProjetoCSharp.csproj.CopyComplete
+C:\Users\Aluno\Downloads\projetocsharpe-master\projetocsharpe-master\ProjetoCSharp\obj\Debug\ProjetoCSharp.Migrations.aaa.resources

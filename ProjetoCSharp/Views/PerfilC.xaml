@@ -1,0 +1,32 @@
+﻿<Window x:Class="ProjetoCSharp.Views.PerfilC"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="clr-namespace:ProjetoCSharp.Views"
+      mc:Ignorable="d"
+      Title="Seu Perfil" Height="623" Width="539.5">
+
+    <Grid Margin="0,0,-7,-5" >
+        <Image x:Name="imgPerfil" Height="143" Width="140" Margin="52,56,347,398"/>
+        <Rectangle Fill="#EAF2F8" HorizontalAlignment="Left" Height="396" Margin="221,56,0,0" Stroke="#eee9e9" VerticalAlignment="Top" Width="4"/>
+        <Rectangle Fill="#EAF2F8" HorizontalAlignment="Left" Height="140" Margin="52,225,0,0" Stroke="#eee9e9" VerticalAlignment="Top" Width="140" RenderTransformOrigin="0.5,0.481"/>
+        <Button Content="Sair" HorizontalAlignment="Left" Margin="421,80,0,0" VerticalAlignment="Top" Width="76" Click="Sair"/>
+        <Button Content="Voltar" HorizontalAlignment="Left" Margin="340,80,0,0" VerticalAlignment="Top" Width="76" Click="Voltar"/>
+        <DataGrid Name="Historico" HorizontalAlignment="Left" Height="309" Margin="255,115,0,0" VerticalAlignment="Top" Width="243">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Nome do Autonomo" Width="120" Binding="{Binding NomeAuto}"/>
+                <DataGridTextColumn Header="Data" Width="60" Binding="{Binding Dia}"/>
+                <DataGridTextColumn Header="Início" Width="80" Binding="{Binding InicioExpediente}"/>
+
+            </DataGrid.Columns>
+        </DataGrid>
+        <Rectangle Fill="#FF47525E" HorizontalAlignment="Left" Height="99" Margin="0,493,0,0" Stroke="Black" VerticalAlignment="Top" Width="533"/>
+        <Button Content="Buscar" HorizontalAlignment="Left" Margin="255,80,0,0" VerticalAlignment="Top" Width="79" Click="Buscar"/>
+        <Label x:Name="NomeC" Content="a" HorizontalAlignment="Left" Margin="100,199,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.235,0.499"/>
+        <Label x:Name="Info" Content="a" HorizontalAlignment="Left" Margin="81,254,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.615"/>
+        <TextBlock x:Name="txtLogo" HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="DIJJ Variedades" VerticalAlignment="Top"/>
+        <Button x:Name="historico" Content="Ver Historico de mensagens" HorizontalAlignment="Left" Margin="304,437,0,0" VerticalAlignment="Top" Width="154" Click="Historico_Click"/>
+    </Grid>
+
+</Window>

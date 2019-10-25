@@ -1,0 +1,24 @@
+﻿<Window x:Name="Agenda" x:Class="ProjetoCSharp.Views.Agendamento"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="clr-namespace:ProjetoCSharp.Views"
+      mc:Ignorable="d"
+      Title="Agendamento!" Height="555.079" Width="539.5" Loaded="Agenda_Loaded">
+    <Grid>
+        <Image x:Name="imgPerfil" Margin="36,36,345,349"/>
+        <Calendar x:Name="cadData" HorizontalAlignment="Left" Margin="293,143,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="Agendar" Content="Agendar" HorizontalAlignment="Left" Margin="293,392,0,0" VerticalAlignment="Top" Width="75" Click="Agendar_Click" BorderBrush="Black"/>
+        <Button x:Name="Mensagem" Content="Mensagem" HorizontalAlignment="Left" Margin="397,392,0,0" VerticalAlignment="Top" Width="75" Click="Mensagem_Click"/>
+        <TextBlock x:Name="ValorBase" HorizontalAlignment="Left" Margin="64,207,0,0" TextWrapping="Wrap" Text="Valor Base" VerticalAlignment="Top" FontSize="16" FontWeight="Bold" Width="88"/>
+        <Rectangle Fill="#EAF2F8" HorizontalAlignment="Left" Height="396" Margin="221,56,0,0" Stroke="#eee9e9" VerticalAlignment="Top" Width="4"/>
+        <TextBlock x:Name="data" HorizontalAlignment="Left" Margin="315,112,0,0" TextWrapping="Wrap" Text="Selecione a data desejada" VerticalAlignment="Top"/>
+        <Rectangle Fill="#EAF2F8" HorizontalAlignment="Left" Height="156" Margin="36,274,0,0" Stroke="Gray" VerticalAlignment="Top" Width="151"/>
+        <Label x:Name="info" Content="" HorizontalAlignment="Right" Margin="0,274,316,0" VerticalAlignment="Top" Width="206" Height="156"/>
+        <TextBlock x:Name="mensag" HorizontalAlignment="Left" Margin="276,345,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="47" Width="212" FontSize="13"><Run Text="Envie uma mensa"/><Run Text="g"/><Run Text="em ao prestador de serviço"/><Run Text=", se achar necessário"/><LineBreak/><Run/></TextBlock>
+        <Label x:Name="valorbase" Content="Valor base" HorizontalAlignment="Left" Margin="64,233,0,0" VerticalAlignment="Top" FontFamily="Lucida Sans Typewriter" FontSize="13"/>
+        <ComboBox x:Name="cboHorario"  HorizontalAlignment="Left" Margin="293,316,0,0" VerticalAlignment="Top" Width="179"/>
+
+    </Grid>
+</Window>
